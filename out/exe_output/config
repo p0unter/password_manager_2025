@@ -1,0 +1,6 @@
+nickName=user
+defaultPasswordFile=passwords
+currentCommand=home
+includeNumbers=true
+includeLetters=true
+includeSymbols=true
